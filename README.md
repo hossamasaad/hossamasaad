@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="mailto:hossamasaad10gmail.com">
+<a href="mailto:hossamasaad10@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
-<a href="https://www.linkedin.com/in/hossamasaad10/">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=linkedin">
+<a href="https://twitter.com/HossamAsaad10/">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter">
 </a>
 
 - 👋 Hi, I’m @hossamasaad
