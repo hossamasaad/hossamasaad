@@ -103,10 +103,13 @@
 | [Language Identifier](https://github.com/hossamasaad/Language-Identifier) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Sklearn](https://img.shields.io/badge/sklearn-black?style=flat-square&logo=scikit-learn) ![Pytest](https://img.shields.io/badge/PyTest-black?style=flat-square&logo=pytest) 
 | [Image Captioning](https://github.com/hossamasaad/Image-Captioning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
 | [Mall Customer Segmentation](https://github.com/hossamasaad/Data-Science/tree/master/Mall%20Customer%20Segmentation) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=seaborn) ![Sklearn](https://img.shields.io/badge/sklearn-black?style=flat-square&logo=scikit-learn)
+| [Gun Detection](https://github.com/hossamasaad/Gun-Detection) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![BeutifulSoup](https://img.shields.io/badge/BS-black?style=flat-square&logo=BS) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
 | [Consolo](https://github.com/hossamasaad/Consolo) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 ### :writing_hand: Blog Posts :
-[1. Custom training with TensorFlow - part I](https://hossamasaad.hashnode.dev/custom-training-with-tensorflow-part-i)
+[1. Custom training with TensorFlow - part I](https://hossamasaad.hashnode.dev/custom-training-with-tensorflow-part-i) <br>
+[2. Gun Detection - Using Object Detection API](https://hossamasaad.hashnode.dev/gun-detection-using-object-detection-api)
+                
 
                 
 </p>
