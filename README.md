@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://drive.google.com/file/d/1bavJ9KxRiUZEAROrRZ5M5MVt0od-faZ_/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1j6ilHb20MAY9_PjoQtzB8mvzgbBh7t08/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 
